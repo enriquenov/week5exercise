@@ -1,0 +1,19 @@
+nav.navbar {
+  margin: 0;
+}
+
+nav.navbar.navbar-default {
+  background-image: none;
+  background-color: azure;
+}
+
+div.container div.jumbotron p a.btn-primary {
+  background-image: none;
+  background-color: tomato;
+}
+
+div.container div.row div.col-md-4 img {
+  height: 250px;
+  margin-bottom: 15px;
+  width: 100%;
+}
